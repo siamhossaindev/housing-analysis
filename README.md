@@ -5,9 +5,9 @@ Cleaning and exploratory analysis of a housing dataset from Kaggle,
 using Python and pandas.
 
 ## Dataset
-- Source: [Dataset name](https://www.kaggle.com/datasets/hosammhmdali/house-price-dataset) on Kaggle
-- Author: (dataset creator)
-- License: (copy from the Kaggle dataset page)
+- Source: [Housing.csv](https://www.kaggle.com/datasets/hosammhmdali/house-price-dataset) on Kaggle
+- Author: (Hosam Mhmd Ali)
+- License: (Apache 2.0)
 
 ## What I did
 1. Checked for and removed duplicate rows
